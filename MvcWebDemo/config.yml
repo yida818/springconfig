@@ -1,2 +1,4 @@
+spring:
+  profiles: master
 config:
   value: 我的master2
