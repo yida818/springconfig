@@ -1,4 +1,3 @@
-spring:
-  profiles: MvcWebDemo
+
 config:
   value: 我的master2
